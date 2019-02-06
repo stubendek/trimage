@@ -19,4 +19,4 @@ Output image:
 
 ![Output image](https://github.com/stubendek/trimage/blob/master/example-result.png)
 
-(Clisk to see the difference)
+(Click to see the difference)
