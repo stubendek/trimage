@@ -9,7 +9,7 @@ Input file must have 3 color channels. The output file will be a .png image with
 # Example
 
 Input image
-[[https://github.com/stubendek/repository/trimage/blob/master/example.jpg|alt=InputImage]]
+![Input Image](https://github.com/stubendek/repository/trimage/blob/master/example.jpg)
 
 Output image:
-[[https://github.com/stubendek/repository/trimage/blob/master/example-result.png|alt=OutputImage]]
+![Output image](https://github.com/stubendek/repository/trimage/blob/master/example-result.png)
